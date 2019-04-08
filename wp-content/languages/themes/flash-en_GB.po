@@ -1,0 +1,1911 @@
+# Translation of Themes - Flash in English (UK)
+# This file is distributed under the same license as the Themes - Flash package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-07 17:15:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Flash\n"
+
+#. Description of the theme
+msgid "Flash is free responsive multipurpose WordPress theme – truly a versatile theme perfect for any type of website you want. Like never before, it provides multiple pre-built demos which can be imported in seconds using ThemeGrill Demo Importer Plugin. The theme fully integrates with Flash Toolkit and SiteOrigin’s Page Builder Plugin that makes theme more user-friendly and easy. Additionally, theme features multiple blog layouts, WooCommerce support, multiple header styles, multiple color options etc."
+msgstr "Flash is a free responsive multipurpose WordPress theme – truly a versatile theme perfect for any type of website you want. Like never before, it provides multiple pre-built demos which can be imported in seconds using the ThemeGrill Demo Importer Plugin. The theme fully integrates with Flash Toolkit and SiteOrigin’s Page Builder Plugin that makes the theme more user-friendly and easy. Additionally, the theme features multiple blog layouts, WooCommerce support, multiple header styles, multiple colour options etc."
+
+#. Theme Name of the theme
+#: inc/class-flash-admin.php:183 inc/class-flash-admin.php:521
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/class-flash-admin.php:336
+msgid "Needs ThemeGrill Demo Importer plugin."
+msgstr "Needs ThemeGrill Demo Importer plugin."
+
+#: inc/class-flash-admin.php:335
+msgid "Import Demo"
+msgstr "Import Demo"
+
+#: inc/class-flash-admin.php:254
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: inc/class-flash-admin.php:246
+msgid "Site Library"
+msgstr "Site Library"
+
+#: inc/class-flash-admin.php:46
+msgid "Processing..."
+msgstr "Processing..."
+
+#: inc/class-flash-admin.php:41
+msgid "Activating "
+msgstr "Activating "
+
+#: inc/class-flash-site-library.php:106
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: inc/class-flash-site-library.php:101
+msgid "Preview"
+msgstr "Preview"
+
+#: inc/class-flash-site-library.php:97 inc/class-flash-admin.php:339
+msgid "Import"
+msgstr "Import"
+
+#: inc/class-flash-site-library.php:82
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/class-flash-site-library.php:68
+msgid "Themes list"
+msgstr "Themes list"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:199
+msgid "Underline"
+msgstr "Underline"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:200
+msgid "Overline"
+msgstr "Overline"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:201
+msgid "Line-Through"
+msgstr "Line-Through"
+
+#: inc/kirki/controls/php/class-kirki-control-code.php:39
+msgid "Please update your WordPress installation to a version newer than 4.9 to access the code control."
+msgstr "Please update your WordPress installation to a version newer than 4.9 to access the code control."
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS Defaults"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Default Browser Font Family"
+
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Select image"
+
+#: inc/kirki/controls/views/image.php:40
+#: inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Choose image"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:100
+msgid "Download font-family to server instead of using the Google CDN."
+msgstr "Download font family to server instead of using the Google CDN."
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Text Decoration"
+msgstr "Text Decoration"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Standard Fonts"
+
+#: inc/kirki/controls/views/image.php:38
+#: inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "No image selected"
+
+#: inc/kirki/controls/views/image.php:35
+#: inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Change image"
+
+#: inc/class-flash-new-theme-notice.php:75
+msgid "10+ free starter sites"
+msgstr "10+ free starter sites"
+
+#: inc/class-flash-new-theme-notice.php:70
+msgid "Check it out!"
+msgstr "Check it out!"
+
+#. translators: %1$s Zakra theme link %2$s Zakra theme demo link
+#: inc/class-flash-new-theme-notice.php:66
+msgid "Zakra - our new most flexible free WordPress theme. %1$s Zakra is fully compatible with Gutenberg, Elementor and other major page builders. Comes with %2$s to quickly setup your new website."
+msgstr "Zakra - our new most flexible free WordPress theme. %1$s Zakra is fully compatible with Gutenberg, Elementor and other major page builders. Comes with %2$s to quickly setup your new website."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364 inc/extras.php:647
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358 inc/extras.php:641
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352 inc/extras.php:635
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346 inc/extras.php:629
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340 inc/extras.php:623
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334 inc/extras.php:617
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: inc/customizer.php:1331
+msgid "View PRO version"
+msgstr "View PRO version"
+
+#: inc/related-posts.php:8
+msgid "You May Also Like"
+msgstr "You May Also Like"
+
+#: inc/customizer.php:373
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer.php:372
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/customizer.php:368
+msgid "Display Related Posts By:"
+msgstr "Display Related Posts By:"
+
+#: inc/customizer.php:360
+msgid "Enable Related Posts"
+msgstr "Enable Related Posts"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Do not use \"alpha\" as an argument in colour controls. Use \"choices[alpha]\" instead."
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s or %2$s"
+
+#: inc/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+
+#: inc/kirki/core/class-kirki-init.php:276
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" invalid entry in field %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Typo found in field %s - setting instead of settings."
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:66
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Important Upgrade Notice:"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:63
+msgid "Customizing &#9656; %s"
+msgstr "Customising &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:60
+msgid "Customizing"
+msgstr "Customising"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Off"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "On"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:219
+msgid "Margin Bottom"
+msgstr "Margin Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:211
+msgid "Margin Top"
+msgstr "Margin Top"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Backup Font"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Select Font Family"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Add new %s"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Width"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:132
+msgid "Word Spacing"
+msgstr "Word Spacing"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Select File"
+
+#: inc/demo-config.php:87
+msgid "Flash Pro Band"
+msgstr "Flash Pro Band"
+
+#: inc/demo-config.php:82
+msgid "Flash Pro Agency"
+msgstr "Flash Pro Agency"
+
+#: inc/demo-config.php:77
+msgid "Flash Pro Wedding"
+msgstr "Flash Pro Wedding"
+
+#: inc/demo-config.php:72
+msgid "Flash Pro Store"
+msgstr "Flash Pro Store"
+
+#: inc/demo-config.php:67
+msgid "Flash Pro Health"
+msgstr "Flash Pro Health"
+
+#: inc/demo-config.php:62
+msgid "Flash Pro Gym"
+msgstr "Flash Pro Gym"
+
+#: inc/demo-config.php:57
+msgid "Flash Pro Education"
+msgstr "Flash Pro Education"
+
+#: inc/demo-config.php:52
+msgid "Flash Pro Church"
+msgstr "Flash Pro Church"
+
+#: inc/demo-config.php:47
+msgid "Flash Pro Default"
+msgstr "Flash Pro Default"
+
+#: inc/demo-config.php:43
+msgid "Flash Construction V2"
+msgstr "Flash Construction V2"
+
+#: inc/demo-config.php:39
+msgid "Flash Food V2"
+msgstr "Flash Food V2"
+
+#: inc/class-flash-admin.php:700
+msgid "FT: WooCommerce Product Tab"
+msgstr "FT: WooCommerce Product Tab"
+
+#: inc/class-flash-admin.php:695
+msgid "FT: WooCommerce Category Slider"
+msgstr "FT: WooCommerce Category Slider"
+
+#: inc/class-flash-admin.php:690
+msgid "FT: Separator"
+msgstr "FT: Separator"
+
+#: inc/class-flash-admin.php:685
+msgid "FT: Pricing Table"
+msgstr "FT: Pricing Table"
+
+#: inc/class-flash-admin.php:680
+msgid "FT: Instagram Slider"
+msgstr "FT: Instagram Slider"
+
+#: inc/class-flash-admin.php:675
+msgid "FT: Progress Bar"
+msgstr "FT: Progress Bar"
+
+#: inc/class-flash-admin.php:670
+msgid "FT: Post Slider"
+msgstr "FT: Post Slider"
+
+#: inc/class-flash-admin.php:665
+msgid "FT: Google Map"
+msgstr "FT: Google Maps"
+
+#: inc/class-flash-admin.php:657
+msgid "FT: Blog"
+msgstr "FT: Blog"
+
+#: inc/class-flash-admin.php:649
+msgid "FT: Animated Number Counter"
+msgstr "FT: Animated Number Counter"
+
+#: inc/class-flash-admin.php:644
+msgid "1 New Style"
+msgstr "1 New Style"
+
+#: inc/class-flash-admin.php:642
+msgid "FT: Portfolio Widget"
+msgstr "FT: Portfolio Widget"
+
+#: inc/class-flash-admin.php:634
+msgid "FT: Team Widget"
+msgstr "FT: Team Widget"
+
+#: inc/class-flash-admin.php:629 inc/class-flash-admin.php:637
+#: inc/class-flash-admin.php:652
+msgid "4 New Styles"
+msgstr "4 New Styles"
+
+#: inc/class-flash-admin.php:626
+msgid "FT: Testimonial Widget"
+msgstr "FT: Testimonial Widget"
+
+#: inc/class-flash-admin.php:618
+msgid "FT: Call To Action Widget"
+msgstr "FT: Call To Action Widget"
+
+#: inc/class-flash-admin.php:610
+msgid "FT: Service Widget"
+msgstr "FT: Service Widget"
+
+#: inc/class-flash-admin.php:605 inc/class-flash-admin.php:613
+#: inc/class-flash-admin.php:621 inc/class-flash-admin.php:660
+msgid "3 New Styles"
+msgstr "3 New Styles"
+
+#: inc/class-flash-admin.php:602
+msgid "FT: Heading Widget"
+msgstr "FT: Heading Widget"
+
+#: inc/class-flash-admin.php:599
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + E-mails/Support Ticket"
+
+#: inc/class-flash-admin.php:598
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/class-flash-admin.php:597
+msgid "Support"
+msgstr "Support"
+
+#: inc/class-flash-admin.php:594
+msgid "7"
+msgstr "7"
+
+#: inc/class-flash-admin.php:592
+msgid "Demo Content"
+msgstr "Demo Content"
+
+#: inc/class-flash-admin.php:587
+msgid "Widget Animations"
+msgstr "Widget Animations"
+
+#: inc/class-flash-admin.php:582
+msgid "Video Background"
+msgstr "Video Background"
+
+#: inc/class-flash-admin.php:577
+msgid "Custom Widget Area Builder"
+msgstr "Custom Widget Area Builder"
+
+#: inc/class-flash-admin.php:572
+msgid "Footer Copyright Editor"
+msgstr "Footer Copyright Editor"
+
+#: inc/class-flash-admin.php:567
+msgid "Polylang Compatible"
+msgstr "Polylang Compatible"
+
+#: inc/class-flash-admin.php:562
+msgid "WPML Compatible"
+msgstr "WPML Compatible"
+
+#: inc/class-flash-admin.php:557
+msgid "YITH Wishlist Compatible"
+msgstr "YITH Wishlist Compatible"
+
+#: inc/class-flash-admin.php:552
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce Compatible"
+
+#: inc/class-flash-admin.php:547
+msgid "Translation Ready"
+msgstr "Translation Ready"
+
+#: inc/class-flash-admin.php:544
+msgid "13+ Color Options"
+msgstr "13+ Colour Options"
+
+#: inc/class-flash-admin.php:543
+msgid "Primary Color Option"
+msgstr "Primary Colour Option"
+
+#: inc/class-flash-admin.php:542
+msgid "Color Palette"
+msgstr "Colour Palette"
+
+#: inc/class-flash-admin.php:537
+msgid "Font Size options"
+msgstr "Font Size options"
+
+#: inc/class-flash-admin.php:534
+msgid "800+"
+msgstr "800+"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+#: inc/class-flash-admin.php:532
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/class-flash-admin.php:529
+msgid "6"
+msgstr "6"
+
+#: inc/class-flash-admin.php:528 inc/class-flash-admin.php:533
+#: inc/class-flash-admin.php:593
+msgid "3"
+msgstr "3"
+
+#: inc/class-flash-admin.php:527
+msgid "Header Layouts"
+msgstr "Header Layouts"
+
+#: inc/class-flash-admin.php:522
+msgid "Flash Pro"
+msgstr "Flash Pro"
+
+#: inc/class-flash-admin.php:520
+msgid "Features"
+msgstr "Features"
+
+#: inc/class-flash-admin.php:390
+msgid "Click below to translate this theme into your own language."
+msgstr "Click below to translate this theme into your own language."
+
+#: inc/class-flash-admin.php:386 inc/class-flash-admin.php:394
+msgid "Translate"
+msgstr "Translate"
+
+#: inc/class-flash-admin.php:270
+msgid "Free Vs Pro"
+msgstr "Free Vs Pro"
+
+#: inc/extras.php:322
+msgid "Page "
+msgstr "Page "
+
+#: inc/class-flash-admin.php:369 inc/class-flash-admin.php:515
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Upgrade to PRO version for more exciting features."
+
+#: inc/class-flash-admin.php:368
+msgid "Need more features?"
+msgstr "Need more features?"
+
+#: inc/class-flash-admin.php:230
+msgid "View Pro Demos"
+msgstr "View Pro Demos"
+
+#: inc/class-flash-admin.php:228 inc/class-flash-admin.php:371
+#: inc/class-flash-admin.php:708
+msgid "View Pro"
+msgstr "View Pro"
+
+#: inc/class-flash-admin.php:226
+msgid "View Free Demos"
+msgstr "View Free Demos"
+
+#. Template Name of the theme
+msgid "Pagebuilder"
+msgstr "Page Builder"
+
+#: template-parts/content-page.php:25 template-parts/content.php:67
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Search &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:37 inc/template-tags.php:77
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:43
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/meta-boxes.php:57
+msgid "Header Transparency"
+msgstr "Header Transparency"
+
+#: inc/meta-boxes.php:55 inc/meta-boxes.php:56
+msgid "Select Layout"
+msgstr "Select Layout"
+
+#: inc/meta-boxes.php:47
+msgid "Non Transparent Header"
+msgstr "Non Transparent Header"
+
+#: inc/meta-boxes.php:42
+msgid "Transparent Header"
+msgstr "Transparent Header"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width Center"
+msgstr "Full Width Centre"
+
+#. Template Name of the theme
+#: inc/meta-boxes.php:29
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/meta-boxes.php:14
+msgid "Default Layout"
+msgstr "Default Layout"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:363
+msgid "Hex Value"
+msgstr "Hex Value"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:123
+msgid "Select a Page"
+msgstr "Select a Page"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:186
+#: inc/kirki/controls/php/class-kirki-control-typography.php:202
+msgid "Initial"
+msgstr "Initial"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:185
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:184
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:183
+msgid "Capitalize"
+msgstr "Capitalise"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:182
+#: inc/kirki/controls/php/class-kirki-control-typography.php:198
+msgid "None"
+msgstr "None"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:140
+msgid "Text Align"
+msgstr "Text Align"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:229
+msgid "Limit: %s rows"
+msgstr "Limit: %s rows"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "row"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:39
+msgid "Invalid Value"
+msgstr "Invalid Value"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra Bold 900 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Ultra-Bold 900"
+msgstr "Ultra Bold 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra Bold 800 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Extra-Bold 800"
+msgstr "Extra Bold 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi Bold 600 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Semi-Bold 600"
+msgstr "Semi Bold 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra Light 100 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+msgid "Ultra-Light 100"
+msgstr "Ultra Light 100"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Spacing"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Height"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Size"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Variant"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:388
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:445
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Remove"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:410
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:415
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+msgid "No File Selected"
+msgstr "No File Selected"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Change File"
+msgstr "Change File"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:425
+msgid "Add File"
+msgstr "Add File"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:378
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:383
+msgid "No Image Selected"
+msgstr "No Image Selected"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Change Image"
+msgstr "Change Image"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:393
+msgid "Add Image"
+msgstr "Add Image"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:227
+msgid "Color"
+msgstr "Colour"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:169
+msgid "Justify"
+msgstr "Justify"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+msgid "Center"
+msgstr "Centre"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Right"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Left"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Top"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:124
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Font Style"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:116
+msgid "Line Height"
+msgstr "Line Height"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:108
+msgid "Font Size"
+msgstr "Font Size"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+msgid "Center Bottom"
+msgstr "Centre Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+msgid "Center Center"
+msgstr "Centre Centre"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+msgid "Center Top"
+msgstr "Centre Top"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+msgid "Right Bottom"
+msgstr "Right Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+msgid "Right Center"
+msgstr "Right Centre"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+msgid "Right Top"
+msgstr "Right Top"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+msgid "Left Bottom"
+msgstr "Left Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+msgid "Left Center"
+msgstr "Left Centre"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+msgid "Left Top"
+msgstr "Left Top"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Contain"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/controls/php/class-kirki-control-typography.php:187
+#: inc/kirki/controls/php/class-kirki-control-typography.php:203
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: inc/extras.php:356
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/extras.php:353
+msgid "Page NOT Found"
+msgstr "Page NOT Found"
+
+#: inc/extras.php:332
+msgid "404 Error"
+msgstr "404 Error"
+
+#: inc/extras.php:327
+msgid "Search results for: "
+msgstr "Search results for: "
+
+#: inc/extras.php:291
+msgid "jS"
+msgstr "JS"
+
+#: inc/extras.php:288 inc/extras.php:291 inc/extras.php:301
+msgid "M"
+msgstr "M"
+
+#: inc/extras.php:285 inc/extras.php:288 inc/extras.php:298 inc/extras.php:306
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:140
+msgid "Home"
+msgstr "Home"
+
+#: inc/extras.php:121
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/extras.php:121
+msgid "https://wordpress.org/"
+msgstr "https://en-gb.wordpress.org/"
+
+#: inc/extras.php:121
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/extras.php:120
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/extras.php:118
+msgid "Copyright %1$s %2$s"
+msgstr "Copyright %1$s %2$s"
+
+#: inc/demo-config.php:35
+msgid "Flash Construction"
+msgstr "Flash Construction"
+
+#: inc/demo-config.php:31
+msgid "Flash Food"
+msgstr "Flash Food"
+
+#: inc/demo-config.php:27
+msgid "Flash OnePage"
+msgstr "Flash OnePage"
+
+#: inc/demo-config.php:23
+msgid "Flash Default"
+msgstr "Flash Default"
+
+#: inc/customizer.php:775
+msgid "Yellow"
+msgstr "Yellow"
+
+#: inc/customizer.php:766
+msgid "Red"
+msgstr "Red"
+
+#: inc/customizer.php:757
+msgid "Gray"
+msgstr "Grey"
+
+#: inc/customizer.php:748
+msgid "Dark"
+msgstr "Dark"
+
+#: inc/customizer.php:739
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Default"
+
+#: inc/customizer.php:633 inc/customizer.php:652
+msgid "Google Font Settings"
+msgstr "Google Font Settings"
+
+#: inc/customizer.php:624 inc/customizer.php:643
+msgid "Body font. Default is \"Montserrat\"."
+msgstr "Body font. Default is \"Montserrat\"."
+
+#: inc/customizer.php:615
+msgid "Secondary Text Color"
+msgstr "Secondary Text Colour"
+
+#: inc/customizer.php:603
+msgid "Main Text Color"
+msgstr "Main Text Colour"
+
+#: inc/customizer.php:591
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: inc/customizer.php:573
+msgid "Base Color Scheme"
+msgstr "Base Colour Scheme"
+
+#: inc/customizer.php:484
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer.php:473
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: inc/customizer.php:458
+msgid "Footer Widget Area"
+msgstr "Footer Widget Area"
+
+#: inc/customizer.php:448
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: inc/customizer.php:433
+msgid "Page Layout"
+msgstr "Page Layout"
+
+#: inc/customizer.php:423
+msgid "Page Settings"
+msgstr "Page Settings"
+
+#: inc/customizer.php:415
+msgid "Remove next/previous link from post"
+msgstr "Remove next/previous link from post"
+
+#: inc/customizer.php:405
+msgid "Remove Author Bio from post"
+msgstr "Remove Author Bio from post"
+
+#: inc/customizer.php:388
+msgid "Single Post Layout"
+msgstr "Single Post Layout"
+
+#: inc/customizer.php:349
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: inc/customizer.php:341
+msgid "Remove tag from post meta"
+msgstr "Remove tag from post meta"
+
+#: inc/customizer.php:331
+msgid "Remove category from post meta"
+msgstr "Remove category from post meta"
+
+#: inc/customizer.php:321
+msgid "Remove comment count from post meta"
+msgstr "Remove comment count from post meta"
+
+#: inc/customizer.php:311
+msgid "Remove author from post meta"
+msgstr "Remove author from post meta"
+
+#: inc/customizer.php:301
+msgid "Remove date from post meta"
+msgstr "Remove date from post meta"
+
+#: inc/customizer.php:284
+msgid "Archive Page Layout"
+msgstr "Archive Page Layout"
+
+#: inc/customizer.php:268
+msgid "Blog Style"
+msgstr "Blog Style"
+
+#: inc/customizer.php:258
+msgid "Archive Page Settings"
+msgstr "Archive Page Settings"
+
+#: inc/customizer.php:250
+msgid "Page Header Background"
+msgstr "Page Header Background"
+
+#: inc/customizer.php:240
+msgid "Remove breadcrumbs from page header"
+msgstr "Remove breadcrumbs from page header"
+
+#: inc/customizer.php:230
+msgid "Page Header Settings"
+msgstr "Page Header Settings"
+
+#: inc/customizer.php:222
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc/customizer.php:211
+msgid "Remove Header Cart Icon"
+msgstr "Remove Header Basket Icon"
+
+#: inc/customizer.php:201
+msgid "Remove Header Search Box"
+msgstr "Remove Header Search Box"
+
+#: inc/customizer.php:185
+msgid "Logo and Menu Position"
+msgstr "Logo and Menu Position"
+
+#: inc/customizer.php:175
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: inc/customizer.php:153
+msgid "Top Header Text Content"
+msgstr "Top Header Text Content"
+
+#: inc/customizer.php:130
+msgid "Top Header Right Content"
+msgstr "Top Header Right Content"
+
+#: inc/customizer.php:115 inc/customizer.php:138
+msgid "Disable"
+msgstr "Disable"
+
+#: inc/customizer.php:114 inc/customizer.php:137
+msgid "Top Header Text"
+msgstr "Top Header Text"
+
+#: inc/customizer.php:113 inc/customizer.php:136
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: inc/customizer.php:107
+msgid "Top Header Left Content"
+msgstr "Top Header Left Content"
+
+#: inc/customizer.php:97
+msgid "Enable Top Header"
+msgstr "Enable Top Header"
+
+#: inc/customizer.php:87
+msgid "Top Header Settings"
+msgstr "Top Header Settings"
+
+#: inc/customizer.php:79
+msgid "Disable Back to Top Button?"
+msgstr "Disable Back to Top Button?"
+
+#: inc/customizer.php:69
+msgid "Disable Preloader?"
+msgstr "Disable Preloader?"
+
+#: inc/customizer.php:61
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: inc/customizer.php:60
+msgid "Wide Layout"
+msgstr "Wide Layout"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Site Layout"
+
+#: inc/customizer.php:44
+msgid "General Settings"
+msgstr "General Settings"
+
+#: inc/customizer.php:39
+msgid "Flash Theme Options"
+msgstr "Flash Theme Options"
+
+#: inc/customizer.php:30
+msgid "Transparent Logo"
+msgstr "Transparent Logo"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Show Details"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Update"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Install"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Available version:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Required Update Not Available"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Active"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "External Source"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommended"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Required"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update Required"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: inc/class-tgm-plugin-activation.php:397 inc/extras.php:679
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: inc/class-tgm-plugin-activation.php:396 inc/extras.php:678
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "There are one or more required or recommended plugins to install, update or activate."
+
+#: inc/class-tgm-plugin-activation.php:395 inc/extras.php:677
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394 inc/extras.php:676
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392 inc/extras.php:674
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390 inc/extras.php:672
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952 inc/extras.php:670
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159 inc/extras.php:669
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: inc/class-tgm-plugin-activation.php:385 inc/extras.php:668
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: inc/class-tgm-plugin-activation.php:380 inc/extras.php:663
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: inc/class-tgm-plugin-activation.php:375 inc/extras.php:658
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#: inc/class-tgm-plugin-activation.php:370 inc/extras.php:653
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: inc/class-tgm-plugin-activation.php:333 inc/extras.php:616
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332 inc/extras.php:615
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330 inc/extras.php:613
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:328 inc/extras.php:611
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/class-tgm-plugin-activation.php:327 inc/extras.php:610
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: inc/class-flash-admin.php:498
+msgid "RestaurantPress"
+msgstr "RestaurantPress"
+
+#: inc/class-flash-admin.php:495
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/class-flash-admin.php:492
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/class-flash-admin.php:488
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/class-flash-admin.php:485 inc/class-flash-admin.php:489
+#: inc/class-flash-admin.php:499
+msgid " by ThemeGrill"
+msgstr " by ThemeGrill"
+
+#: inc/class-flash-admin.php:484
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/class-flash-admin.php:481
+msgid "This theme recommends following plugins."
+msgstr "This theme recommends the following plugins."
+
+#: inc/class-flash-admin.php:427
+msgid "View changelog below."
+msgstr "View change log below."
+
+#: inc/class-flash-admin.php:410
+msgid "Go to Dashboard"
+msgstr "Go to Dashboard"
+
+#: inc/class-flash-admin.php:410
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Go to Dashboard &rarr; Home"
+
+#: inc/class-flash-admin.php:407
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Return to Dashboard &rarr; Updates"
+
+#: inc/class-flash-admin.php:407
+msgid "Return to Updates"
+msgstr "Return to Updates"
+
+#: inc/class-flash-admin.php:379
+msgid "Contact Page"
+msgstr "Contact Page"
+
+#: inc/class-flash-admin.php:377
+msgid "Please send it via our sales contact page."
+msgstr "Please send it via our sales contact page."
+
+#: inc/class-flash-admin.php:376
+msgid "Got sales related question?"
+msgstr "Got a sales related question?"
+
+#: inc/class-flash-admin.php:363
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: inc/class-flash-admin.php:361
+msgid "Please put it in our dedicated support forum."
+msgstr "Please put it in our dedicated support forum."
+
+#: inc/class-flash-admin.php:360
+msgid "Got theme support question?"
+msgstr "Got a theme support question?"
+
+#: inc/class-flash-admin.php:353
+msgid "Please view our documentation page to setup the theme."
+msgstr "Please view our documentation page to set up the theme."
+
+#: inc/class-flash-admin.php:352 inc/class-flash-admin.php:355
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/class-flash-admin.php:347
+msgid "Customize"
+msgstr "Customise"
+
+#: inc/class-flash-admin.php:345
+msgid "All Theme Options are available via Customize screen."
+msgstr "All Theme Options are available via Customise screen."
+
+#: inc/class-flash-admin.php:344
+msgid "Theme Customizer"
+msgstr "Theme Customiser"
+
+#: inc/class-flash-admin.php:278
+msgid "Changelog"
+msgstr "Change Log"
+
+#: inc/class-flash-admin.php:262
+msgid "Supported Plugins"
+msgstr "Supported Plugins"
+
+#: inc/class-flash-admin.php:235
+msgid "Demo Importer"
+msgstr "Demo Importer"
+
+#: inc/class-flash-admin.php:239
+msgid "Rate this theme"
+msgstr "Rate this theme"
+
+#: inc/class-flash-admin.php:224
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/class-flash-site-library.php:97 inc/class-flash-admin.php:191
+msgid "Get started with Flash"
+msgstr "Get started with Flash"
+
+#: inc/class-flash-admin.php:187
+msgid "Welcome! Thank you for choosing Flash! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Welcome! Thank you for choosing Flash! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+
+#: inc/class-flash-admin.php:178
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: inc/class-flash-admin.php:156
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: inc/class-flash-admin.php:152
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Action failed. Please refresh the page and retry."
+
+#: inc/class-flash-admin.php:115 inc/class-flash-admin.php:210
+msgid "About"
+msgstr "About"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:183
+msgid "Add widgets here for footer sidebar 4."
+msgstr "Add widgets here for footer sidebar 4."
+
+#: functions.php:181
+msgid "Footer Sidebar 4"
+msgstr "Footer Sidebar 4"
+
+#: functions.php:173
+msgid "Add widgets here for footer sidebar 3."
+msgstr "Add widgets here for footer sidebar 3."
+
+#: functions.php:171
+msgid "Footer Sidebar 3"
+msgstr "Footer Sidebar 3"
+
+#: functions.php:163
+msgid "Add widgets here for footer sidebar 2."
+msgstr "Add widgets here for footer sidebar 2."
+
+#: functions.php:161
+msgid "Footer Sidebar 2"
+msgstr "Footer Sidebar 2"
+
+#: functions.php:153
+msgid "Add widgets here for footer sidebar 1."
+msgstr "Add widgets here for footer sidebar 1."
+
+#: functions.php:151
+msgid "Footer Sidebar 1"
+msgstr "Footer Sidebar 1"
+
+#: functions.php:143
+msgid "Add widgets here for left sidebar."
+msgstr "Add widgets here for left sidebar."
+
+#: functions.php:141 inc/meta-boxes.php:24
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:133
+msgid "Add widgets here for right sidebar."
+msgstr "Add widgets here for right sidebar."
+
+#: functions.php:131 inc/meta-boxes.php:19
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: functions.php:61
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:60
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primary"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Thought on &ldquo;%s&rdquo;"
+msgstr "One Thought on &ldquo;%s&rdquo;"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/flash"
+msgstr "https://themegrill.com/themes/flash"
